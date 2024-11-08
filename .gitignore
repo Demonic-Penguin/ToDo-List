@@ -4,9 +4,6 @@
 node_modules/
 
 # Expo
-.expo/
-dist/
-web-build/
 
 # Native
 *.orig.*
@@ -37,6 +34,3 @@ yarn-error.*
 
 # amplify
 node_modules
-.amplify
-amplify_outputs*
-amplifyconfiguration*
