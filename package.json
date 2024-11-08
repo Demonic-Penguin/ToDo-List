@@ -15,6 +15,7 @@
     "@expo/metro-runtime": "~3.2.3",
     "@react-native-async-storage/async-storage": "^2.0.0",
     "@react-native-community/netinfo": "^11.4.1",
+    "aws": "^0.0.3-2",
     "aws-amplify": "^6.8.0",
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
